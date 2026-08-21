@@ -5,6 +5,8 @@ Rosa was a now discontinued Linux Distro, and this is the USB media creation too
 
 Code for Windows/Mac ports are currently still here but are currently abandoned. 
 
+It is important to note that this modernization code was helped using generative AI (ChatGPT during summer 2026).
+
 TO BUILD:
 
 sudo apt install qmake6 qt6-base-dev
