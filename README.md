@@ -7,6 +7,8 @@ Code for Windows/Mac ports are currently still here but are currently abandoned.
 
 TO BUILD:
 
+sudo apt install qmake6 qt6-base-dev
+
 git clone --recursive https://github.com/WiiNewU/ROSA-ImageWriter/
 
 cd ROSA-ImageWriter
